@@ -14,4 +14,5 @@
 - Base64
 - Pillow
 
-!(https://www.magnific.com/ru/photos/%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0
+!(<img width="386" height="289" alt="image" src="https://github.com/user-attachments/assets/80b24b83-54de-4b9f-9cdc-59170952b620" />
+
